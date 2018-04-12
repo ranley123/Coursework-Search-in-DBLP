@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="89600">database* theory*</query>
+<status code="200">OK</status>
+<time unit="msecs">53.82</time>
+<completions total="1" computed="1" sent="0">
+</completions>
+<hits total="440" computed="100" sent="40" first="0">
+<hit score="4" id="4007588">
+<info><authors><author>Henry F. Korth</author></authors><title>XP / 7.52 Workshop on Database Theory, University of Texas at Austin, TX, USA, August 13-15, 1986</title><venue>XP7.52 Workshop on Database Theory</venue><year>1986</year><type>Editorship</type><key>conf/xp/1986</key><url>http://dblp.org/rec/conf/xp/1986</url></info>
+<url>URL#4007588</url>
+</hit>
+<hit score="4" id="4041216">
+<info><title>XP4.5 Workshop on Database Theory, 1983 Palo Alto, California, USA</title><venue>XP4.5 Workshop on Database Theory</venue><year>1983</year><type>Editorship</type><key>conf/xp/1983</key><url>http://dblp.org/rec/conf/xp/1983</url></info>
+<url>URL#4041216</url>
+</hit>
+<hit score="4" id="4057665">
+<info><title>XP2 Workshop on Relational Database Theory, June 22-24 1981, The Pennsylvania State University, PA, USA</title><venue>XP2 Workshop on Relational Database Theory</venue><year>1981</year><type>Editorship</type><key>conf/xp/1981</key><url>http://dblp.org/rec/conf/xp/1981</url></info>
+<url>URL#4057665</url>
+</hit>
+<hit score="4" id="4064644">
+<info><authors><author>David Maier 0001</author></authors><title>XP1 Workshop on Relational Database Theory, 30 June - 2 July 1980, SUNY at Stony Brook, NY, USA</title><venue>XP1 Workshop on Database Theory</venue><year>1980</year><type>Editorship</type><key>conf/xp/1980</key><url>http://dblp.org/rec/conf/xp/1980</url></info>
+<url>URL#4064644</url>
+</hit>
+<hit score="3" id="121071">
+<info><authors><author>Marcelo Arenas</author></authors><title>Foreword - Special Issue on Database Theory.</title><venue>Theory Comput. Syst.</venue><volume>61</volume><number>1</number><pages>1</pages><year>2017</year><type>Journal Articles</type><key>journals/mst/Arenas17</key><doi>10.1007/S00224-017-9766-9</doi><ee>https://doi.org/10.1007/s00224-017-9766-9</ee><url>http://dblp.org/rec/journals/mst/Arenas17</url></info>
+<url>URL#121071</url>
+</hit>
+<hit score="3" id="297271">
+<info><authors><author>Zi Huang</author><author>Xiaokui Xiao</author><author>Xin Cao</author></authors><title>Databases Theory and Applications - 28th Australasian Database Conference, ADC 2017, Brisbane, QLD, Australia, September 25-28, 2017, Proceedings</title><venue>ADC</venue><venue>Lecture Notes in Computer Science</venue><volume>10538</volume><publisher>Springer</publisher><year>2017</year><type>Editorship</type><key>conf/adc/2017</key><doi>10.1007/978-3-319-68155-9</doi><ee>https://doi.org/10.1007/978-3-319-68155-9</ee><url>http://dblp.org/rec/conf/adc/2017</url></info>
+<url>URL#297271</url>
+</hit>
+<hit score="3" id="591269">
+<info><authors><author>Muhammad Aamir Cheema</author><author>Wenjie Zhang</author><author>Lijun Chang</author></authors><title>Databases Theory and Applications - 27th Australasian Database Conference, ADC 2016, Sydney, NSW, September 28-29, 2016, Proceedings</title><venue>ADC</venue><venue>Lecture Notes in Computer Science</venue><volume>9877</volume><publisher>Springer</publisher><year>2016</year><type>Editorship</type><key>conf/adc/2016</key><doi>10.1007/978-3-319-46922-5</doi><ee>https://doi.org/10.1007/978-3-319-46922-5</ee><url>http://dblp.org/rec/conf/adc/2016</url></info>
+<url>URL#591269</url>
+</hit>
+<hit score="3" id="690838">
+<info><authors><author>Balder ten Cate</author><author>Wang-Chiew Tan</author></authors><title>Foreword - Special Issue on Database Theory.</title><venue>Theory Comput. Syst.</venue><volume>57</volume><number>4</number><pages>1112-1113</pages><year>2015</year><type>Journal Articles</type><key>journals/mst/CateT15</key><doi>10.1007/S00224-015-9641-5</doi><ee>https://doi.org/10.1007/s00224-015-9641-5</ee><url>http://dblp.org/rec/journals/mst/CateT15</url></info>
+<url>URL#690838</url>
+</hit>
+<hit score="3" id="690897">
+<info><title>Editor&apos;s Note - Special Issue on Database Theory.</title><venue>Theory Comput. Syst.</venue><volume>57</volume><number>4</number><pages>805</pages><year>2015</year><type>Journal Articles</type><key>journals/mst/X15</key><doi>10.1007/S00224-015-9651-3</doi><ee>https://doi.org/10.1007/s00224-015-9651-3</ee><url>http://dblp.org/rec/journals/mst/X15</url></info>
+<url>URL#690897</url>
+</hit>
+<hit score="3" id="873767">
+<info><authors><author>Mohamed A. Sharaf</author><author>Muhammad Aamir Cheema</author><author>Jianzhong Qi</author></authors><title>Databases Theory and Applications - 26th Australasian Database Conference, ADC 2015, Melbourne, VIC, Australia, June 4-7, 2015. Proceedings</title><venue>ADC</venue><venue>Lecture Notes in Computer Science</venue><volume>9093</volume><publisher>Springer</publisher><year>2015</year><type>Editorship</type><key>conf/adc/2015</key><doi>10.1007/978-3-319-19548-3</doi><ee>https://doi.org/10.1007/978-3-319-19548-3</ee><url>http://dblp.org/rec/conf/adc/2015</url></info>
+<url>URL#873767</url>
+</hit>
+<hit score="3" id="902039">
+<info><authors><author>Zoran Majkic</author></authors><title>Big Data Integration Theory - Theory and Methods of Database Mappings, Programming Languages, and Semantics</title><venue>Texts in Computer Science</venue><pages>1-513</pages><publisher>Springer</publisher><year>2014</year><type>Books and Theses</type><key>series/txcs/Majkic14</key><doi>10.1007/978-3-319-04156-8</doi><ee>https://doi.org/10.1007/978-3-319-04156-8</ee><url>http://dblp.org/rec/series/txcs/Majkic14</url></info>
+<url>URL#902039</url>
+</hit>
+<hit score="3" id="1147341">
+<info><authors><author>Hua Wang</author><author>Mohamed A. Sharaf</author></authors><title>Databases Theory and Applications - 25th Australasian Database Conference, ADC 2014, Brisbane, QLD, Australia, July 14-16, 2014. Proceedings</title><venue>ADC</venue><venue>Lecture Notes in Computer Science</venue><volume>8506</volume><publisher>Springer</publisher><year>2014</year><type>Editorship</type><key>conf/adc/2014</key><doi>10.1007/978-3-319-08608-8</doi><ee>https://doi.org/10.1007/978-3-319-08608-8</ee><url>http://dblp.org/rec/conf/adc/2014</url></info>
+<url>URL#1147341</url>
+</hit>
+<hit score="3" id="1237520">
+<info><authors><author>Abhay Kumar Jha</author><author>Dan Suciu</author></authors><title>Knowledge Compilation Meets Database Theory - Compiling Queries to Decision Diagrams.</title><venue>Theory Comput. Syst.</venue><volume>52</volume><number>3</number><pages>403-440</pages><year>2013</year><type>Journal Articles</type><key>journals/mst/JhaS13</key><doi>10.1007/S00224-012-9392-5</doi><ee>https://doi.org/10.1007/s00224-012-9392-5</ee><url>http://dblp.org/rec/journals/mst/JhaS13</url></info>
+<url>URL#1237520</url>
+</hit>
+<hit score="3" id="1285311">
+<info><authors><author>Sergei L. Bezrukov</author><author>Uwe Leck</author><author>Victor P. Piotrowski</author></authors><title>On Data Recovery in Distributed Databases.</title><venue>Information Theory, Combinatorics, and Search Theory</venue><pages>419-431</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/birthday/BezrukovLP13</key><doi>10.1007/978-3-642-36899-8_19</doi><ee>https://doi.org/10.1007/978-3-642-36899-8_19</ee><url>http://dblp.org/rec/conf/birthday/BezrukovLP13</url></info>
+<url>URL#1285311</url>
+</hit>
+<hit score="3" id="1998175">
+<info><authors><author>Marc Denecker</author><author>Alvaro Cortés-Calabuig</author><author>Maurice Bruynooghe</author><author>Ofer Arieli</author></authors><title>Towards a logical reconstruction of a theory for locally closed databases.</title><venue>ACM Trans. Database Syst.</venue><volume>35</volume><number>3</number><pages>22:1-22:60</pages><year>2010</year><type>Journal Articles</type><key>journals/tods/DeneckerCBA10</key><doi>10.1145/1806907.1806914</doi><ee>http://doi.acm.org/10.1145/1806907.1806914</ee><url>http://dblp.org/rec/journals/tods/DeneckerCBA10</url></info>
+<url>URL#1998175</url>
+</hit>
+<hit score="3" id="3204355">
+<info><authors><author>Carlos Gonzalía</author></authors><title>Towards a Formalisation of Relational Database Theory in Constructive Type Theory.</title><venue>RelMiCS</venue><pages>137-148</pages><year>2003</year><type>Conference and Workshop Papers</type><key>conf/RelMiCS/Gonzalia03</key><doi>10.1007/978-3-540-24771-5_12</doi><ee>https://doi.org/10.1007/978-3-540-24771-5_12</ee><url>http://dblp.org/rec/conf/RelMiCS/Gonzalia03</url></info>
+<url>URL#3204355</url>
+</hit>
+<hit score="3" id="3353304">
+<info><authors><author>Josep Domingo-Ferrer</author></authors><title>Inference Control in Statistical Databases, From Theory to Practice</title><venue>Inference Control in Statistical Databases</venue><venue>Lecture Notes in Computer Science</venue><volume>2316</volume><publisher>Springer</publisher><year>2002</year><type>Editorship</type><key>conf/icsd/2002</key><doi>10.1007/3-540-47804-3</doi><ee>https://doi.org/10.1007/3-540-47804-3</ee><url>http://dblp.org/rec/conf/icsd/2002</url></info>
+<url>URL#3353304</url>
+</hit>
+<hit score="3" id="3355306">
+<info><authors><author>Margita Altus</author></authors><title>Decision support for conceptual database design based on the evidence theory - an intelligent dialogue interface for conceptual database design.</title><pages>1-221</pages><publisher>Kovač</publisher><year>2001</year><type>Books and Theses</type><key>phd/dnb/Altus01</key><ee>http://d-nb.info/961946369</ee><url>http://dblp.org/rec/phd/dnb/Altus01</url></info>
+<url>URL#3355306</url>
+</hit>
+<hit score="3" id="3495726">
+<info><authors><author>Monica Lagazio</author><author>Evan Govender</author></authors><title>A New Generation of International Databases - A Multi-agent Inspired Approach to Integrate Different Theory-Driven Databases on Conflict Warning.</title><venue>MICAI</venue><pages>586-597</pages><year>2000</year><type>Conference and Workshop Papers</type><key>conf/micai/LagazioG00</key><doi>10.1007/10720076_53</doi><ee>https://doi.org/10.1007/10720076_53</ee><url>http://dblp.org/rec/conf/micai/LagazioG00</url></info>
+<url>URL#3495726</url>
+</hit>
+<hit score="3" id="3546403">
+<info><authors><author>Armin Fessler</author><author>Hans-Jörg Schek</author></authors><title>A Generalized Transaction Theory for Database and Non-database Tasks.</title><venue>Euro-Par</venue><pages>459-468</pages><year>1999</year><type>Conference and Workshop Papers</type><key>conf/europar/FesslerS99</key><doi>10.1007/3-540-48311-X_62</doi><ee>https://doi.org/10.1007/3-540-48311-X_62</ee><url>http://dblp.org/rec/conf/europar/FesslerS99</url></info>
+<url>URL#3546403</url>
+</hit>
+<hit score="3" id="3690290">
+<info><authors><author>Jeffrey D. Ullman</author></authors><title>Moving Database Theory into Database Practice.</title><venue>ACM Comput. Surv.</venue><volume>28</volume><number>4es</number><pages>90</pages><year>1996</year><type>Journal Articles</type><key>journals/csur/Ullman96</key><doi>10.1145/242224.242343</doi><ee>http://doi.acm.org/10.1145/242224.242343</ee><url>http://dblp.org/rec/journals/csur/Ullman96</url></info>
+<url>URL#3690290</url>
+</hit>
+<hit score="3" id="3731586">
+<info><authors><author>Sherry Marcus</author><author>V. S. Subrahmanian</author></authors><title>Towards a Theory of Multimedia Database Systems.</title><venue>Multimedia Database System - Issues and Research Direction</venue><pages>1-35</pages><year>1996</year><type>Parts in Books or Collections</type><key>books/sp/subrahmanianJ96/MarcusS96</key><url>http://dblp.org/rec/books/sp/subrahmanianJ96/MarcusS96</url></info>
+<url>URL#3731586</url>
+</hit>
+<hit score="3" id="3772195">
+<info><authors><author>Joachim Biskup</author></authors><title>Achievements of Relational Database Schema Design Theory Revisited.</title><venue>Semantics in Databases</venue><pages>29-54</pages><year>1995</year><type>Conference and Workshop Papers</type><key>conf/sdb/Biskup95</key><doi>10.1007/BFB0035004</doi><ee>https://doi.org/10.1007/BFb0035004</ee><url>http://dblp.org/rec/conf/sdb/Biskup95</url></info>
+<url>URL#3772195</url>
+</hit>
+<hit score="3" id="3837593">
+<info><authors><author>Alessandro D&apos;Atri</author><author>Laura Tarantino</author></authors><title>A Browsing Theory and its Application to Database Navigation.</title><venue>CISM - Advances in Database Systems</venue><pages>161-179</pages><year>1993</year><type>Conference and Workshop Papers</type><key>conf/cism/DAtriT93</key><url>http://dblp.org/rec/conf/cism/DAtriT93</url></info>
+<url>URL#3837593</url>
+</hit>
+<hit score="3" id="3871562">
+<info><authors><author>Jeffrey D. Ullman</author></authors><title>The Interface Between Language Theory and Database Theory.</title><venue>Theoretical Studies in Computer Science</venue><pages>133-151</pages><year>1992</year><type>Conference and Workshop Papers</type><key>conf/birthday/Ullman92</key><url>http://dblp.org/rec/conf/birthday/Ullman92</url></info>
+<url>URL#3871562</url>
+</hit>
+<hit score="3" id="3923034">
+<info><authors><author>Serge Abiteboul</author><author>Paris C. Kanellakis</author></authors><title>Database Theory Column - Query Languages for Complex Object Databases.</title><venue>SIGACT News</venue><volume>21</volume><number>3</number><pages>9-18</pages><year>1990</year><type>Journal Articles</type><key>journals/sigact/AbiteboulK90</key><doi>10.1145/101368.101370</doi><ee>http://doi.acm.org/10.1145/101368.101370</ee><url>http://dblp.org/rec/journals/sigact/AbiteboulK90</url></info>
+<url>URL#3923034</url>
+</hit>
+<hit score="3" id="3929353">
+<info><authors><author>Bernhard Thalheim</author></authors><title>Extending the Entity-Relationship Model for a High-Level, Theory-Based Database Design.</title><venue>East/West Database Workshop</venue><pages>161-184</pages><year>1990</year><type>Conference and Workshop Papers</type><key>conf/ewdw/Thalheim90</key><doi>10.1007/3-540-54141-1_10</doi><ee>https://doi.org/10.1007/3-540-54141-1_10</ee><url>http://dblp.org/rec/conf/ewdw/Thalheim90</url></info>
+<url>URL#3929353</url>
+</hit>
+<hit score="3" id="3946476">
+<info><authors><author>Paris C. Kanellakis</author><author>Serge Abiteboul</author></authors><title>Database Theory Column - Deciding Bounded Recursion in Database Logic Programs.</title><venue>SIGACT News</venue><volume>20</volume><number>4</number><pages>17-23</pages><year>1989</year><type>Journal Articles</type><key>journals/sigact/KanellakisA89</key><doi>10.1145/74074.74077</doi><ee>http://doi.acm.org/10.1145/74074.74077</ee><url>http://dblp.org/rec/journals/sigact/KanellakisA89</url></info>
+<url>URL#3946476</url>
+</hit>
+<hit score="3" id="3971423">
+<info><authors><author>Elke A. Rundensteiner</author></authors><title>The Role of AI in Databases versus the Role of Database Theory in AI - An Opinion.</title><venue>DS-3</venue><pages>233-252</pages><year>1988</year><type>Conference and Workshop Papers</type><key>conf/ds/Rundensteiner88</key><url>http://dblp.org/rec/conf/ds/Rundensteiner88</url></info>
+<url>URL#3971423</url>
+</hit>
+<hit score="3" id="4007411">
+<info><authors><author>Jay Banerjee</author><author>Hyoung-Joo Kim</author><author>Won Kim 0001</author><author>Henry F. Korth</author></authors><title>Schema Evolution in Object-Oriented Persistent Databases.</title><venue>XP7.52 Workshop on Database Theory</venue><year>1986</year><type>Conference and Workshop Papers</type><key>conf/xp/BanerjeeKKK86</key><url>http://dblp.org/rec/conf/xp/BanerjeeKKK86</url></info>
+<url>URL#4007411</url>
+</hit>
+<hit score="3" id="4007414">
+<info><authors><author>Dirk Van Gucht</author><author>Patrick C. Fischer</author></authors><title>High Level Data Manipulation Languages for Unnormalized Relational Database Models.</title><venue>XP7.52 Workshop on Database Theory</venue><year>1986</year><type>Conference and Workshop Papers</type><key>conf/xp/GuchtF86</key><url>http://dblp.org/rec/conf/xp/GuchtF86</url></info>
+<url>URL#4007414</url>
+</hit>
+<hit score="3" id="4007415">
+<info><authors><author>Richard Hull 0001</author></authors><title>A Survey of Theoretical Research on Typed Complex Database Objects.</title><venue>XP7.52 Workshop on Database Theory</venue><year>1986</year><type>Conference and Workshop Papers</type><key>conf/xp/Hull86</key><url>http://dblp.org/rec/conf/xp/Hull86</url></info>
+<url>URL#4007415</url>
+</hit>
+<hit score="3" id="4007416">
+<info><authors><author>Michael Kifer</author><author>Eliezer L. Lozinskii</author></authors><title>Can We Implement Logic as a Database System?</title><venue>XP7.52 Workshop on Database Theory</venue><year>1986</year><type>Conference and Workshop Papers</type><key>conf/xp/KiferL86</key><url>http://dblp.org/rec/conf/xp/KiferL86</url></info>
+<url>URL#4007416</url>
+</hit>
+<hit score="3" id="4007417">
+<info><authors><author>Henry F. Korth</author></authors><title>Non-First-Normal-Form Relations Theory and Applications.</title><venue>XP7.52 Workshop on Database Theory</venue><year>1986</year><type>Conference and Workshop Papers</type><key>conf/xp/Korth86</key><url>http://dblp.org/rec/conf/xp/Korth86</url></info>
+<url>URL#4007417</url>
+</hit>
+<hit score="3" id="4007420">
+<info><authors><author>David Maier 0001</author></authors><title>Why Object-Oriented Databases Can Succeed Where Others Have Failed.</title><venue>XP7.52 Workshop on Database Theory</venue><year>1986</year><type>Conference and Workshop Papers</type><key>conf/xp/Maier86</key><url>http://dblp.org/rec/conf/xp/Maier86</url></info>
+<url>URL#4007420</url>
+</hit>
+<hit score="3" id="4007423">
+<info><authors><author>Shamim A. Naqvi</author></authors><title>A Logic for Negation in Database Systems.</title><venue>XP7.52 Workshop on Database Theory</venue><year>1986</year><type>Conference and Workshop Papers</type><key>conf/xp/Naqvi86</key><url>http://dblp.org/rec/conf/xp/Naqvi86</url></info>
+<url>URL#4007423</url>
+</hit>
+<hit score="3" id="4007429">
+<info><authors><author>Naphtali Rishe</author></authors><title>The Expressiveness of Logic-based Database Query Languages.</title><venue>XP7.52 Workshop on Database Theory</venue><year>1986</year><type>Conference and Workshop Papers</type><key>conf/xp/Riche86</key><url>http://dblp.org/rec/conf/xp/Riche86</url></info>
+<url>URL#4007429</url>
+</hit>
+<hit score="3" id="4017732">
+<info><authors><author>David W. Stemple</author><author>Tim Sheard</author></authors><title>Database Theory for Supporting Specification-Based Database Systems Development.</title><venue>ICSE</venue><pages>43-49</pages><year>1985</year><type>Conference and Workshop Papers</type><key>conf/icse/StempleS85</key><ee>http://dl.acm.org/citation.cfm?id=319577</ee><url>http://dblp.org/rec/conf/icse/StempleS85</url></info>
+<url>URL#4017732</url>
+</hit>
+<hit score="3" id="4037135">
+<info><authors><author>Jeffrey D. Ullman</author></authors><title>Corrigendum - The Theory of Joins in Relational Databases.</title><venue>ACM Trans. Database Syst.</venue><volume>8</volume><number>2</number><pages>287</pages><year>1983</year><type>Journal Articles</type><key>journals/tods/Ullman83</key><url>http://dblp.org/rec/journals/tods/Ullman83</url></info>
+<url>URL#4037135</url>
+</hit>
+<hit score="3" id="4041116">
+<info><authors><author>Stefano Ceri</author><author>Georg Gottlob</author><author>Giuseppe Pelagatti</author></authors><title>Joining Fragmented Relations in Distributed Databases.</title><venue>XP4.5 Workshop on Database Theory</venue><year>1983</year><type>Conference and Workshop Papers</type><key>conf/xp/CeriGP83</key><url>http://dblp.org/rec/conf/xp/CeriGP83</url></info>
+<url>URL#4041116</url>
+</hit>
+</hits>
+</result>

@@ -1,0 +1,265 @@
+{
+"result":{
+"query":"math*",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"1.98"
+},
+"completions":{
+"@total":"8",
+"@computed":"8",
+"@sent":"0"
+},
+"hits":{
+"@total":"106",
+"@computed":"100",
+"@sent":"40",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"30",
+"info":{"venue":"Workshop on Applications of Discrete Geometry and Mathematical Morphology (WADGMM)","acronym":"WADGMM","type":"Conference or Workshop","url":"http://dblp.org/db/conf/wadgmm/"},
+"url":"URL#30"
+},
+{
+"@score":"1",
+"@id":"93",
+"info":{"venue":"Mathematical Methods in Computer Science (MMICS)","acronym":"MMICS","type":"Conference or Workshop","url":"http://dblp.org/db/conf/mmics/"},
+"url":"URL#93"
+},
+{
+"@score":"1",
+"@id":"128",
+"info":{"venue":"Asian Symposium on Computer Mathematics (ASCM)","acronym":"ASCM","type":"Conference or Workshop","url":"http://dblp.org/db/conf/ascm/"},
+"url":"URL#128"
+},
+{
+"@score":"1",
+"@id":"309",
+"info":{"venue":"IMA Conference on the Mathematics of Surfaces (IMA)","acronym":"IMA","type":"Conference or Workshop","url":"http://dblp.org/db/conf/ima-ms/"},
+"url":"URL#309"
+},
+{
+"@score":"1",
+"@id":"320",
+"info":{"venue":"Symposium on Mathematical Fundamentals of Database Systems (MFDBS)","acronym":"MFDBS","type":"Conference or Workshop","url":"http://dblp.org/db/conf/mfdbs/"},
+"url":"URL#320"
+},
+{
+"@score":"1",
+"@id":"436",
+"info":{"venue":"International Symposium on Mathematical Foundations of Computer Science (MFCS)","acronym":"MFCS","type":"Conference or Workshop","url":"http://dblp.org/db/conf/mfcs/"},
+"url":"URL#436"
+},
+{
+"@score":"1",
+"@id":"544",
+"info":{"venue":"Interval Mathematics","type":"Conference or Workshop","url":"http://dblp.org/db/conf/interval/"},
+"url":"URL#544"
+},
+{
+"@score":"1",
+"@id":"593",
+"info":{"venue":"International Symposium on Artificial Intelligence and Mathematics (ISAIM)","acronym":"ISAIM","type":"Conference or Workshop","url":"http://dblp.org/db/conf/isaim/"},
+"url":"URL#593"
+},
+{
+"@score":"1",
+"@id":"695",
+"info":{"venue":"Artificial Intelligence and Symbolic Computation (AISC)","acronym":"AISC","type":"Conference or Workshop","url":"http://dblp.org/db/conf/aisc/"},
+"url":"URL#695"
+},
+{
+"@score":"1",
+"@id":"838",
+"info":{"venue":"European Conference on Numerical Mathematics and Advanced Applications (ENUMATH)","acronym":"ENUMATH","type":"Conference or Workshop","url":"http://dblp.org/db/conf/enumath/"},
+"url":"URL#838"
+},
+{
+"@score":"1",
+"@id":"1076",
+"info":{"venue":"Mathematical Methods for Curves and Surfaces (MMCS)","acronym":"MMCS","type":"Conference or Workshop","url":"http://dblp.org/db/conf/mmcs/"},
+"url":"URL#1076"
+},
+{
+"@score":"1",
+"@id":"1077",
+"info":{"venue":"International Conference on Mathematical Modeling and Computational Science (MMCP)","acronym":"MMCP","type":"Conference or Workshop","url":"http://dblp.org/db/conf/mmcp/"},
+"url":"URL#1077"
+},
+{
+"@score":"1",
+"@id":"1383",
+"info":{"venue":"Theoretical and Mathematical Foundations of Computer Science (TMFCS)","acronym":"TMFCS","type":"Conference or Workshop","url":"http://dblp.org/db/conf/tmfcs/"},
+"url":"URL#1383"
+},
+{
+"@score":"1",
+"@id":"1475",
+"info":{"venue":"Mathematics and Computation in Music (MCM)","acronym":"MCM","type":"Conference or Workshop","url":"http://dblp.org/db/conf/mcm2/"},
+"url":"URL#1475"
+},
+{
+"@score":"1",
+"@id":"1643",
+"info":{"venue":"International Conference on Discrete Mathematics and Theoretical Computer Science (DMTCS)","acronym":"DMTCS","type":"Conference or Workshop","url":"http://dblp.org/db/conf/dmtcs/"},
+"url":"URL#1643"
+},
+{
+"@score":"1",
+"@id":"1676",
+"info":{"venue":"Doctoral Workshop on Mathematical and Engineering Methods in Computer Science (MEMICS)","acronym":"MEMICS","type":"Conference or Workshop","url":"http://dblp.org/db/conf/memics/"},
+"url":"URL#1676"
+},
+{
+"@score":"1",
+"@id":"1748",
+"info":{"venue":"International Conference on Mathematical Aspects of Computer and Information Sciences (MACIS)","acronym":"MACIS","type":"Conference or Workshop","url":"http://dblp.org/db/conf/macis/"},
+"url":"URL#1748"
+},
+{
+"@score":"1",
+"@id":"1904",
+"info":{"venue":"International Conference on Mathematics and Engineering Techniques in Medicine and Biological Scienes (METMBS)","acronym":"METMBS","type":"Conference or Workshop","url":"http://dblp.org/db/conf/metmbs/"},
+"url":"URL#1904"
+},
+{
+"@score":"1",
+"@id":"1910",
+"info":{"venue":"Workshop on Mathematically Structured Functional Programming (MSFP)","acronym":"MSFP","type":"Conference or Workshop","url":"http://dblp.org/db/conf/msfp/"},
+"url":"URL#1910"
+},
+{
+"@score":"1",
+"@id":"1934",
+"info":{"venue":"Geometric Invariance and Applications in Engineering (GIAE)","acronym":"GIAE","type":"Conference or Workshop","url":"http://dblp.org/db/conf/giae/"},
+"url":"URL#1934"
+},
+{
+"@score":"1",
+"@id":"1967",
+"info":{"venue":"International Congress of Mathematicans (ICM)","acronym":"ICM","type":"Conference or Workshop","url":"http://dblp.org/db/conf/icm/"},
+"url":"URL#1967"
+},
+{
+"@score":"1",
+"@id":"2093",
+"info":{"venue":"Mathematical Science Institute Workshops (MSIW)","acronym":"MSIW","type":"Conference or Workshop","url":"http://dblp.org/db/conf/msiw/"},
+"url":"URL#2093"
+},
+{
+"@score":"1",
+"@id":"2105",
+"info":{"venue":"Nonlinear Mathematics for Uncertainty and its Applications (NL-MUA)","acronym":"NL-MUA","type":"Conference or Workshop","url":"http://dblp.org/db/conf/nlmua/"},
+"url":"URL#2105"
+},
+{
+"@score":"1",
+"@id":"2353",
+"info":{"venue":"Mathematical Methods for Protein Structure Analysis and Design","type":"Conference or Workshop","url":"http://dblp.org/db/conf/msps/"},
+"url":"URL#2353"
+},
+{
+"@score":"1",
+"@id":"3238",
+"info":{"venue":"International Conference on Algorithms and Discrete Applied Mathematics (CALDAM)","acronym":"CALDAM","type":"Conference or Workshop","url":"http://dblp.org/db/conf/caldam/"},
+"url":"URL#3238"
+},
+{
+"@score":"1",
+"@id":"3432",
+"info":{"venue":"International Conference on Computer Science, Applied Mathematics and Applications (ICCSAMA)","acronym":"ICCSAMA","type":"Conference or Workshop","url":"http://dblp.org/db/conf/iccsama/"},
+"url":"URL#3432"
+},
+{
+"@score":"1",
+"@id":"3533",
+"info":{"venue":"Mathematical Methods, Models, and Architectures for Network Security Systems (MMM-ACNS)","acronym":"MMM-ACNS","type":"Conference or Workshop","url":"http://dblp.org/db/conf/mmmacns/"},
+"url":"URL#3533"
+},
+{
+"@score":"1",
+"@id":"3966",
+"info":{"venue":"International Conference on Biology, Informatics, and Mathematics (JOBIM)","acronym":"JOBIM","type":"Conference or Workshop","url":"http://dblp.org/db/conf/jobim/"},
+"url":"URL#3966"
+},
+{
+"@score":"1",
+"@id":"4035",
+"info":{"venue":"International Congress on Mathematical Software (ICMS)","acronym":"ICMS","type":"Conference or Workshop","url":"http://dblp.org/db/conf/icms/"},
+"url":"URL#4035"
+},
+{
+"@score":"1",
+"@id":"4188",
+"info":{"venue":"International Conference on Theoretical Computer Science and Discrete Mathematics (ICTCSDM)","acronym":"ICTCSDM","type":"Conference or Workshop","url":"http://dblp.org/db/conf/ictcsdm/"},
+"url":"URL#4188"
+},
+{
+"@score":"1",
+"@id":"4209",
+"info":{"venue":"Algorithmic Mathematics and Computer Science (AMCS)","acronym":"AMCS","type":"Conference or Workshop","url":"http://dblp.org/db/conf/amcs/"},
+"url":"URL#4209"
+},
+{
+"@score":"1",
+"@id":"4377",
+"info":{"venue":"Algebraic and Coalgebraic Methods in the Mathematics of Program Construction","type":"Conference or Workshop","url":"http://dblp.org/db/conf/acmmpc/"},
+"url":"URL#4377"
+},
+{
+"@score":"1",
+"@id":"4664",
+"info":{"venue":"International Conference on Intelligent Computer Mathematics (CICM)","acronym":"CICM","type":"Conference or Workshop","url":"http://dblp.org/db/conf/mkm/"},
+"url":"URL#4664"
+},
+{
+"@score":"1",
+"@id":"4711",
+"info":{"venue":"International Symposium on Mathematical Morphology and Its Application to Signal and Image Processing (ISMM)","acronym":"ISMM","type":"Conference or Workshop","url":"http://dblp.org/db/conf/ismm/"},
+"url":"URL#4711"
+},
+{
+"@score":"1",
+"@id":"4757",
+"info":{"venue":"Mathematics of Language (MOL)","acronym":"MOL","type":"Conference or Workshop","url":"http://dblp.org/db/conf/mol/"},
+"url":"URL#4757"
+},
+{
+"@score":"1",
+"@id":"4774",
+"info":{"venue":"International Conference on Mathematics of Program Construction (MPC)","acronym":"MPC","type":"Conference or Workshop","url":"http://dblp.org/db/conf/mpc/"},
+"url":"URL#4774"
+},
+{
+"@score":"1",
+"@id":"4897",
+"info":{"venue":"Hellenic-European Conference on Computer Mathematics and its Applications (HERCMA)","acronym":"HERCMA","type":"Conference or Workshop","url":"http://dblp.org/db/conf/hercma/"},
+"url":"URL#4897"
+},
+{
+"@score":"1",
+"@id":"4921",
+"info":{"venue":"Mathematical Foundations of Programming Semantics (MFPS)","acronym":"MFPS","type":"Conference or Workshop","url":"http://dblp.org/db/conf/mfps/"},
+"url":"URL#4921"
+},
+{
+"@score":"1",
+"@id":"5124",
+"info":{"venue":"Parallel Processing and Applied Mathematics (PPAM)","acronym":"PPAM","type":"Conference or Workshop","url":"http://dblp.org/db/conf/ppam/"},
+"url":"URL#5124"
+},
+{
+"@score":"1",
+"@id":"5222",
+"info":{"venue":"Mathematical Studies of Information Processing","type":"Conference or Workshop","url":"http://dblp.org/db/conf/msi/"},
+"url":"URL#5222"
+}
+]
+}
+}
+}

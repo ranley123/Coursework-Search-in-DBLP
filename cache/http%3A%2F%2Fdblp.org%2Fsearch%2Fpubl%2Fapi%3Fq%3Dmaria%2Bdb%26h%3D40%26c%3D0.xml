@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="93734">maria* db</query>
+<status code="200">OK</status>
+<time unit="msecs">32.88</time>
+<completions total="1" computed="1" sent="0">
+</completions>
+<hits total="15" computed="15" sent="15" first="0">
+<hit score="5" id="2929210">
+<info><authors><author>Marianne Winslett</author></authors><title>John Wilkes speaks out - on what the DB community needs to know about storage, how the DB and storage communities can join forces and change the world, and more.</title><venue>SIGMOD Record</venue><volume>34</volume><number>3</number><pages>100-110</pages><year>2005</year><type>Journal Articles</type><key>journals/sigmod/Winslett05b</key><doi>10.1145/1084805.1084829</doi><ee>http://doi.acm.org/10.1145/1084805.1084829</ee><url>http://dblp.org/rec/journals/sigmod/Winslett05b</url></info>
+<url>URL#2929210</url>
+</hit>
+<hit score="4" id="982946">
+<info><authors><author>Marianne Winslett</author><author>Vanessa Braganholo</author></authors><title>Kian-Lee Tan Speaks Out on How to Build a Strong DB Group without Pushing Students Hard.</title><venue>SIGMOD Record</venue><volume>43</volume><number>4</number><pages>27-32</pages><year>2014</year><type>Journal Articles</type><key>journals/sigmod/WinslettB14</key><doi>10.1145/2737817.2737824</doi><ee>http://doi.acm.org/10.1145/2737817.2737824</ee><url>http://dblp.org/rec/journals/sigmod/WinslettB14</url></info>
+<url>URL#982946</url>
+</hit>
+<hit score="4" id="2078216">
+<info><authors><author>D. Moro-Frías</author><author>María Teresa Sanz-Pascual</author><author>Carlos A. de la Cruz-Bias</author></authors><title>Linear-in-dB Variable Gain Amplifier with PWL exponential gain control.</title><venue>ISCAS</venue><pages>2824-2827</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/iscas/Moro-FriasSC10</key><doi>10.1109/ISCAS.2010.5536984</doi><ee>https://doi.org/10.1109/ISCAS.2010.5536984</ee><url>http://dblp.org/rec/conf/iscas/Moro-FriasSC10</url></info>
+<url>URL#2078216</url>
+</hit>
+<hit score="4" id="3707865">
+<info><authors><author>C. Varela</author><author>D. Nekhayev</author><author>P. Chandrasekharan</author><author>C. Krishnan</author><author>V. Govindan</author><author>D. Modgil</author><author>S. Siddiqui</author><author>D. Lebedenko</author><author>Marianne Winslett</author></authors><title>DB - Browsing Object-Oriented Databases over the Web.</title><venue>World Wide Web Journal</venue><volume>1</volume><number>1</number><year>1996</year><type>Journal Articles</type><key>journals/wwwj/VarelaNCKGMSLW96</key><url>http://dblp.org/rec/journals/wwwj/VarelaNCKGMSLW96</url></info>
+<url>URL#3707865</url>
+</hit>
+<hit score="3" id="2176249">
+<info><authors><author>Mariano Jiménez-Fuentes</author><author>Ramón González Carvajal</author><author>Lucía Acosta</author><author>Carlos Rubia-Marcos</author><author>Antonio J. López-Martín</author><author>Jaime Ramírez-Angulo</author></authors><title>A tunable highly linear CMOS transconductor with 80 dB of SFDR.</title><venue>Integration</venue><volume>42</volume><number>3</number><pages>277-285</pages><year>2009</year><type>Journal Articles</type><key>journals/integration/Jimenez-FuentesCARLR09</key><doi>10.1016/J.VLSI.2008.11.002</doi><ee>https://doi.org/10.1016/j.vlsi.2008.11.002</ee><url>http://dblp.org/rec/journals/integration/Jimenez-FuentesCARLR09</url></info>
+<url>URL#2176249</url>
+</hit>
+<hit score="3" id="2843654">
+<info><authors><author>Lucía Acosta</author><author>Ramón González Carvajal</author><author>Mariano Jiménez-Fuentes</author><author>Jaime Ramírez-Angulo</author><author>Antonio J. López-Martín</author></authors><title>A CMOS transconductor with 90 dB SFDR and low sensitivity to mismatch.</title><venue>ISCAS</venue><year>2006</year><type>Conference and Workshop Papers</type><key>conf/iscas/AcostaCJRL06</key><doi>10.1109/ISCAS.2006.1692524</doi><ee>https://doi.org/10.1109/ISCAS.2006.1692524</ee><url>http://dblp.org/rec/conf/iscas/AcostaCJRL06</url></info>
+<url>URL#2843654</url>
+</hit>
+<hit score="3" id="3159488">
+<info><authors><author>María A. Nieto-Santisteban</author><author>William O&apos;Mullane</author><author>Jim Gray 0001</author><author>Nolan Li</author><author>Tamas Budavari</author><author>Alexander S. Szalay</author><author>Aniruddha R. Thakar</author></authors><title>Extending the SDSS Batch Query System to the National Virtual Observatory Grid</title><venue>CoRR</venue><volume>cs.DB/0403017</volume><year>2004</year><type>Informal Publications</type><key>journals/corr/cs-DB-0403017</key><ee>http://arxiv.org/abs/cs.DB/0403017</ee><url>http://dblp.org/rec/journals/corr/cs-DB-0403017</url></info>
+<url>URL#3159488</url>
+</hit>
+<hit score="3" id="3159504">
+<info><authors><author>Jim Gray 0001</author><author>Alexander S. Szalay</author><author>Aniruddha R. Thakar</author><author>Gyorgy Fekete</author><author>William O&apos;Mullane</author><author>María A. Nieto-Santisteban</author><author>Gerd Heber</author><author>Arnold H. Rots</author></authors><title>There Goes the Neighborhood - Relational Algebra for Spatial Data Search</title><venue>CoRR</venue><volume>cs.DB/0408031</volume><year>2004</year><type>Informal Publications</type><key>journals/corr/cs-DB-0408031</key><ee>http://arxiv.org/abs/cs.DB/0408031</ee><url>http://dblp.org/rec/journals/corr/cs-DB-0408031</url></info>
+<url>URL#3159504</url>
+</hit>
+<hit score="2" id="409224">
+<info><authors><author>Céline M. Labbé</author><author>Mélaine A. Kuenemann</author><author>Barbara Zarzycka</author><author>Gert Vriend</author><author>Gerry A. F. Nicolaes</author><author>David Lagorce</author><author>Maria A. Miteva</author><author>Bruno O. Villoutreix</author><author>Olivier Sperandio</author></authors><title>iPPI-DB - an online database of modulators of protein-protein interactions.</title><venue>Nucleic Acids Research</venue><volume>44</volume><number>Database-Issue</number><pages>542-547</pages><year>2016</year><type>Journal Articles</type><key>journals/nar/LabbeKZVNLMVS16</key><doi>10.1093/NAR/GKV982</doi><ee>https://doi.org/10.1093/nar/gkv982</ee><url>http://dblp.org/rec/journals/nar/LabbeKZVNLMVS16</url></info>
+<url>URL#409224</url>
+</hit>
+<hit score="2" id="1180299">
+<info><authors><author>Luiz Thibério Rangel</author><author>Jeniffer Novaes</author><author>Alan M. Durham</author><author>Alda Maria B. N. Madeira</author><author>Arthur Gruber</author></authors><title>The Eimeria Transcript DB - an integrated resource for annotated transcripts of protozoan parasites of the genus Eimeria.</title><venue>Database</venue><volume>2013</volume><year>2013</year><type>Journal Articles</type><key>journals/biodb/RangelNDMG13</key><doi>10.1093/DATABASE/BAT006</doi><ee>https://doi.org/10.1093/database/bat006</ee><url>http://dblp.org/rec/journals/biodb/RangelNDMG13</url></info>
+<url>URL#1180299</url>
+</hit>
+<hit score="2" id="2074981">
+<info><authors><author>Carmen Martínez-Cruz</author><author>Ignacio J. Blanco</author><author>María Amparo Vila Miranda</author></authors><title>Describing Fuzzy DB Schemas as Ontologies - A System Architecture View.</title><venue>IPMU</venue><pages>147-157</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/ipmu/Martinez-CruzBM10</key><doi>10.1007/978-3-642-14058-7_15</doi><ee>https://doi.org/10.1007/978-3-642-14058-7_15</ee><url>http://dblp.org/rec/conf/ipmu/Martinez-CruzBM10</url></info>
+<url>URL#2074981</url>
+</hit>
+<hit score="2" id="2478798">
+<info><authors><author>Nicolás Marín</author><author>Juan Miguel Medina</author><author>Olga Pons</author><author>M. Carmen Garrido</author></authors><title>Fuzzy Time Representation and Handling in a relational DB.</title><venue>ICSOFT</venue><pages>91-97</pages><year>2008</year><type>Conference and Workshop Papers</type><key>conf/icsoft/MarinMPG08</key><url>http://dblp.org/rec/conf/icsoft/MarinMPG08</url></info>
+<url>URL#2478798</url>
+</hit>
+<hit score="2" id="2707160">
+<info><authors><author>Mariano P. Consens</author><author>Ricardo A. Baeza-Yates</author><author>Mounia Lalmas</author><author>Sihem Amer-Yahia</author></authors><title>XML retrieval - db/ir in theory, web in practice.</title><venue>VLDB</venue><pages>1437-1438</pages><year>2007</year><type>Conference and Workshop Papers</type><key>conf/vldb/ConsensBLA07</key><ee>http://www.vldb.org/conf/2007/papers/tutorials/p1437-ameryahia.pdf</ee><url>http://dblp.org/rec/conf/vldb/ConsensBLA07</url></info>
+<url>URL#2707160</url>
+</hit>
+<hit score="2" id="3153405">
+<info><authors><author>Ricardo A. Baeza-Yates</author><author>Mariano P. Consens</author></authors><title>The Continued Saga of DB-IR Integration.</title><venue>VLDB</venue><pages>1245</pages><year>2004</year><type>Conference and Workshop Papers</type><key>conf/vldb/Baeza-YatesC04</key><ee>http://www.vldb.org/conf/2004/TUT5.PDF</ee><url>http://dblp.org/rec/conf/vldb/Baeza-YatesC04</url></info>
+<url>URL#3153405</url>
+</hit>
+<hit score="2" id="3340983">
+<info><authors><author>Paloma Moreda</author><author>Rafael Muñoz</author><author>Patricio Martínez-Barco</author><author>Cristina Cachero</author><author>Manuel Palomar</author></authors><title>A Web Information Extraction System to DB Prototyping.</title><venue>NLDB</venue><pages>13-26</pages><year>2002</year><type>Conference and Workshop Papers</type><key>conf/nldb/MoredaMMCP02</key><doi>10.1007/3-540-36271-1_2</doi><ee>https://doi.org/10.1007/3-540-36271-1_2</ee><url>http://dblp.org/rec/conf/nldb/MoredaMMCP02</url></info>
+<url>URL#3340983</url>
+</hit>
+</hits>
+</result>

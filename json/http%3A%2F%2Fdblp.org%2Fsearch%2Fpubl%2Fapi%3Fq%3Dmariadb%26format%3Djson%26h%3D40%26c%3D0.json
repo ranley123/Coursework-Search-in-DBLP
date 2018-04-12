@@ -1,0 +1,43 @@
+{
+"result":{
+"query":"mariadb*",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"0.46"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"0"
+},
+"hits":{
+"@total":"3",
+"@computed":"3",
+"@sent":"3",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"127737",
+"info":{"authors":{"author":["Jan Lindström","Dhananjoy Das","Nick Piggin","Santhosh Konundinya","Torben Mathiasen","Nisha Talagala","Dulcardo Arteaga"]},"title":"An NVM Aware MariaDB Database System and Associated IO Workload on File Systems.","venue":"OJDB","volume":"4","number":"1","pages":"1-21","year":"2017","type":"Journal Articles","key":"journals/ojdb/LindstromDPKMTA17","ee":"http://nbn-resolving.de/urn:nbn:de:101:1-201705194662","url":"http://dblp.org/rec/journals/ojdb/LindstromDPKMTA17"},
+"url":"URL#127737"
+},
+{
+"@score":"1",
+"@id":"496574",
+"info":{"authors":{"author":["Mark Zaslavskiy","Alexander Kaluzhniy","Tatyana Berlenko","Ilfat Kinyaev","Kirill Krinkin","Timofey Turenko"]},"title":"Full automated continuous integration and testing infrastructure for Maxscale and MariaDB.","venue":"FRUCT-19","pages":"273-278","year":"2016","type":"Conference and Workshop Papers","key":"conf/fruct/ZaslavskiyKBKKT16","doi":"10.23919/FRUCT.2016.7892211","ee":"https://doi.org/10.23919/FRUCT.2016.7892211","url":"http://dblp.org/rec/conf/fruct/ZaslavskiyKBKKT16"},
+"url":"URL#496574"
+},
+{
+"@score":"1",
+"@id":"843517",
+"info":{"authors":{"author":["Jan Lindström","Dhananjoy Das","Torben Mathiasen","Dulcardo Arteaga","Nisha Talagala"]},"title":"NVM aware MariaDB database system.","venue":"NVMSA","pages":"1-6","year":"2015","type":"Conference and Workshop Papers","key":"conf/nvmsa/LindstromDMAT15","doi":"10.1109/NVMSA.2015.7304362","ee":"https://doi.org/10.1109/NVMSA.2015.7304362","url":"http://dblp.org/rec/conf/nvmsa/LindstromDMAT15"},
+"url":"URL#843517"
+}
+]
+}
+}
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="93802">mariadb*</query>
+<status code="200">OK</status>
+<time unit="msecs">32.55</time>
+<completions total="1" computed="1" sent="0">
+</completions>
+<hits total="3" computed="3" sent="3" first="0">
+<hit score="1" id="125577">
+<info><authors><author>Jan Lindström</author><author>Dhananjoy Das</author><author>Nick Piggin</author><author>Santhosh Konundinya</author><author>Torben Mathiasen</author><author>Nisha Talagala</author><author>Dulcardo Arteaga</author></authors><title>An NVM Aware MariaDB Database System and Associated IO Workload on File Systems.</title><venue>OJDB</venue><volume>4</volume><number>1</number><pages>1-21</pages><year>2017</year><type>Journal Articles</type><key>journals/ojdb/LindstromDPKMTA17</key><ee>http://nbn-resolving.de/urn:nbn:de:101:1-201705194662</ee><url>http://dblp.org/rec/journals/ojdb/LindstromDPKMTA17</url></info>
+<url>URL#125577</url>
+</hit>
+<hit score="1" id="494268">
+<info><authors><author>Mark Zaslavskiy</author><author>Alexander Kaluzhniy</author><author>Tatyana Berlenko</author><author>Ilfat Kinyaev</author><author>Kirill Krinkin</author><author>Timofey Turenko</author></authors><title>Full automated continuous integration and testing infrastructure for Maxscale and MariaDB.</title><venue>FRUCT-19</venue><pages>273-278</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/fruct/ZaslavskiyKBKKT16</key><doi>10.23919/FRUCT.2016.7892211</doi><ee>https://doi.org/10.23919/FRUCT.2016.7892211</ee><url>http://dblp.org/rec/conf/fruct/ZaslavskiyKBKKT16</url></info>
+<url>URL#494268</url>
+</hit>
+<hit score="1" id="841211">
+<info><authors><author>Jan Lindström</author><author>Dhananjoy Das</author><author>Torben Mathiasen</author><author>Dulcardo Arteaga</author><author>Nisha Talagala</author></authors><title>NVM aware MariaDB database system.</title><venue>NVMSA</venue><pages>1-6</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/nvmsa/LindstromDMAT15</key><doi>10.1109/NVMSA.2015.7304362</doi><ee>https://doi.org/10.1109/NVMSA.2015.7304362</ee><url>http://dblp.org/rec/conf/nvmsa/LindstromDMAT15</url></info>
+<url>URL#841211</url>
+</hit>
+</hits>
+</result>

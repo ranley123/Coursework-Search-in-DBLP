@@ -1,0 +1,43 @@
+{
+"result":{
+"query":"jack* cole*",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"0.30"
+},
+"completions":{
+"@total":"2",
+"@computed":"2",
+"@sent":"0"
+},
+"hits":{
+"@total":"3",
+"@computed":"3",
+"@sent":"3",
+"@first":"0",
+"hit":[{
+"@score":"2",
+"@id":"338475",
+"info":{"author":"Jack Cole","url":"http://dblp.org/pid/14/891"},
+"url":"URL#338475"
+},
+{
+"@score":"2",
+"@id":"338711",
+"info":{"author":"D. Jackson Coleman","url":"http://dblp.org/pid/129/0680"},
+"url":"URL#338711"
+},
+{
+"@score":"2",
+"@id":"778053",
+"info":{"author":"G. Cole Jackson","url":"http://dblp.org/pid/182/3136"},
+"url":"URL#778053"
+}
+]
+}
+}
+}
